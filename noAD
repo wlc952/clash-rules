@@ -1,4 +1,4 @@
-hostname =*.baidu.com,-imerres.baidu.com,weixin110.qq.com,issuecdn.baidupcs.com,j-image.missfresh.cn,api.m.jd.com,mp.weixin.qq.com,mi.gdt.qq.com,mobads.baidu.com
+hostname =*.baidu.com,-imerres.baidu.com,weixin110.qq.com,issuecdn.baidupcs.com,j-image.missfresh.cn,api.m.jd.com,mi.gdt.qq.com,mobads.baidu.com
 
 #百度网盘广告屏蔽(会员卖卡赚钱)
 #hostname=sofire.baidu.com,ndstatic.cdn.bcebos.com,pan.baidu.com,staticsns.cdn.bcebos.com,issuecdn.baidupcs.com
